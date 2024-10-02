@@ -9,4 +9,4 @@ To-Do:<br>
         - Move funds following strategy
 - Custom Buy Schedule
 - DEPOSIT FUNDS
-- Acrons-esk functionlity? Round up?
+- Acorns-esk functionlity? Round up?
