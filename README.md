@@ -1,6 +1,7 @@
 Thought behind it is set it and forget it. Automatically buys crypto in your coinbase wallet. 
+\n
 
-To-Do:
+To-Do:\n
 -Strategies: Higher Growth Potential, Higher Income Potential, Slow Growth High Stability
   -Staking
     -Move funds following strategy
