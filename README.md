@@ -6,7 +6,7 @@ Thought behind it is set it and forget it. Automatically buys crypto in your coi
 To-Do:<br>
 - Strategies: Higher Growth Potential, Higher Income Potential, Slow Growth High Stability
     - Staking
->>> Move funds following strategy<br>
--Custom Buy Schedule<br>
--DEPOSIT FUNDS<br>
--Acrons-esk functionlity? Round up? <br>
+        - Move funds following strategy
+- Custom Buy Schedule
+- DEPOSIT FUNDS
+- Acrons-esk functionlity? Round up?
