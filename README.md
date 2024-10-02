@@ -1,5 +1,5 @@
-##Walnut
-####Acorns for crypto
+<h1>Walnut</h1>
+<h3>Acorns for crypto</h3>
 
 Thought behind it is set it and forget it. Automatically buys crypto in your coinbase wallet. 
 
