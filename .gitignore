@@ -1,2 +1,3 @@
-.env
+.venv
 cdp_api_key.json
+autorun.bat
