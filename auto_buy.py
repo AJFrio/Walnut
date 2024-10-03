@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO)
 PURCHASE_AMOUNT_USD = 2.0  # Set the default purchase amount to $2.00
 
 # Initialize the Coinbase client
-client = RESTClient(key_file='aj_api.json')
+client = RESTClient(key_file='keys/aj_cdp.json')
 
 def get_last_purchase_time():
     if os.path.exists('time.txt'):
